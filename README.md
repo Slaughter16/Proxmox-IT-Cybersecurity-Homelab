@@ -59,7 +59,7 @@ This project is a virtualized cybersecurity and IT operations lab built using **
 - Proxmox web interface with VMs running
 
 ---
-![Proxmox Topology](images/.txtimages/images/Proxmox_Topology.png)
+![Proxmox Network Topology](images/Proxmox_Topology.png)
 **
 ## 📁 File Structure
 

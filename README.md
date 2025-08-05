@@ -90,9 +90,10 @@ This project is a virtualized cybersecurity and IT operations lab built using **
 ---
 
 > 💡 This lab project is part of my journey in transitioning to real-world IT and cybersecurity operations.
+  
+📁 [Project repo on GitHub](https://github.com/Slaughter16/Proxmox-IT-Cybersecurity-Homelab)
 
-📌 [Connect with me on LinkedIn](www.linkedin.com/in/john-slaughter-08a872262)  
-📁 [Project repo on GitHub](https://github.com/yourusername/Proxmox-Cybersecurity-Homelab)
+## 📇 Contact
 
-
+🔗 [LinkedIn: John Slaughter](https://www.linkedin.com/in/john-slaughter-08a872262/)
 

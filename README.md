@@ -52,10 +52,6 @@ This project is a virtualized cybersecurity and IT operations lab built using **
 > Screenshots will be uploaded in the `images/` folder and shown here.
 
 - Network Topology (draw.io)
-- pfSense firewall rules
-- Pi-hole dashboard
-- Security Onion logs
-- Splunk dashboard
 - Proxmox web interface with VMs running
 
 ---
